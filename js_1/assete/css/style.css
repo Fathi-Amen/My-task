@@ -1,0 +1,52 @@
+section{
+    width: 50%;
+    padding: 20px;
+    margin: auto;
+    background-color: beige;
+    border-radius: 5px;
+
+}
+h1{
+    color: rgb(113, 110, 110);
+}
+input{
+    width: 100%;
+    background-color:bisque;
+    margin-bottom: 15px;
+    border: 1px solid #777777;
+    border-radius: 5px;
+    padding: 5px 0 5px 2px;
+    color: rgb(113, 110, 110)
+}
+input:active{
+    border-color:bisque;
+}
+button{
+    width: 100%;
+    background-color: burlywood;
+    border: 1px solid burlywood ;
+    border-radius: 5px;
+    margin-left: 2px;
+    padding: 5px 0 5px 2px;
+    color: rgb(113, 110, 110);
+    margin-bottom: 10px;
+}
+button:hover{
+    background-color: rgb(135, 123, 109);
+    border: 0;
+    color: #ffffff;
+}
+/* .task-container{
+    width: 50%;
+    padding: 10px;
+    background-color: rgb(135, 135, 101);
+    border-radius: 5px;
+    color: black;
+    height: 50px;
+}
+.task-container h1{
+    color: blue;
+}
+.task-container p{
+    color: blue;
+} */
